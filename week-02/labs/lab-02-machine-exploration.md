@@ -139,7 +139,7 @@ This step happens directly on GitHub, not through this worksheet — there's no 
 5. After you submit this worksheet, it will be committed to your repo. Go back to GitHub, open the committed file, click the pencil (edit) icon, and paste your raw URL into the embed line below:
 
 ```markdown
-![Task Manager / Activity Monitor screenshot](paste your raw image URL here)
+https://raw.githubusercontent.com/angela-ousley/angela-ousley-cyberfoundations-portfolio/refs/heads/main/assets/screenshots/week-02/machine-exploration.png
 ```
 
 **My Screenshot** (added directly on GitHub after you submit):
