@@ -2,7 +2,7 @@
 
 **Student Name:** Angela Ousley
 
-**Date Completed:**
+**Date Completed:** July 24, 2026
 
 ## Prompts
 
@@ -15,7 +15,7 @@ Making updates in GitHub and finding my 'raw' file. Understanding how the hardwa
 **What's still confusing?**
 
 ```
-The hotel analogy was a bit confusing for me. I understand the technical components on there own better than when they are referred to as 'house keeping, rooms, front desk, and guest'.
+The hotel analogy was a bit confusing for me. I understand the technical components on their own better than when they are referred to as 'house keeping, rooms, front desk, and guest'.
 ```
 
 **How does this week's material connect to a cybersecurity career path you're interested in?**
