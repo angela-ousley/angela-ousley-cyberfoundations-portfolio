@@ -2,7 +2,7 @@
 
 **Student Name:** Angela Ousley
 
-**Date Completed:** July 28, 2026
+**Date Completed:** July 29, 2026
 
 **Module:** 1 — Digital Infrastructure & CLI | **Week:** 3  
 **Submission Path:** `week-03/labs/lab-02-two-shells-same-job.md`
@@ -211,7 +211,7 @@ cd archive/incident-42
 Command you ran:
 
 ```
-pwd
+Get-Location
 ```
 
 Output:
