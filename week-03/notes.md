@@ -14,6 +14,12 @@ Summarize this week's key concepts in your own words — not copy-pasted definit
 
 **What's the difference between a file and a folder, and how do they form a tree together?**
 
+- The difference between a file and a folder is that a file is a single item, like a program, picture, pdf, etc. A folder can hold a file, it's like a container. Folders can go inside of folders which starts to form a tree. The folders branch out and the files are like the leaves. 
+
 **How does a Windows-style file path differ from a Linux-style file path?**
 
-**One command from this week you feel most confident with, and why:** The difference between a file and a folder is that a file is a single item, like a program, picture, pdf, etc. A folder can hold a file, it's like a container. Folders can go inside of folders which starts to form a tree. The folders branch out and the files are like the leaves. A Windows-style path has back slashes, while a Linux-style path has forward slashes. One command from this week that I feel the most confident with is [ls] because I like to look around and know what's in each folder. Whenever I [cd] into a new directory I always use [ls] after [pwd] so I can know if there are more folders or what files are available in the directory I'm in currently.
+- A Windows-style path has back slashes, while a Linux-style path has forward slashes.
+
+**One command from this week you feel most confident with, and why:** 
+
+- One command from this week that I feel the most confident with is [ls] because I like to look around and know what's in each folder. Whenever I [cd] into a new directory I always use [ls] after [pwd] so I can know if there are more folders or what files are available in the directory I'm in currently.
