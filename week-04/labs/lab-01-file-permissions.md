@@ -92,9 +92,9 @@ Commands you ran (in order, including both ls -l checks):
 ```
 ls -l master-inventory.txt
 chmod g-w master-inventory.txt
-ls -l
+ls -l master-inventory.txt
 chmod o-rw master-inventory.txt
-ls -l
+ls -l master-inventory.txt
 ```
 
 The file's permission string BEFORE and AFTER:
