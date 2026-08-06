@@ -248,7 +248,7 @@ This lab's written answers are submitted through the **CyberFoundations Lab Port
 6. Edit this lab file and paste your copied link into the embed below, at the end of Part B:
 
 ```markdown
-https://raw.githubusercontent.com/angela-ousley/angela-ousley-cyberfoundations-portfolio/refs/heads/main/assets/screenshots/week-04/cli-permissions-audit.png
+https://raw.githubusercontent.com/angela-ousley/angela-ousley-cyberfoundations-portfolio/471c5ed5de714b061c70500f9403f9954fb0eb4f/assets/screenshots/week-04/cli-permissions-audit.png
 ```
 
 **If right-click doesn't show that option** (e.g., on some trackpads or tablets): click the small download-arrow icon in the top-right of the image preview instead, then copy the URL from your browser's address bar.
