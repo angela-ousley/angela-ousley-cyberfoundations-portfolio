@@ -44,4 +44,4 @@ A stopped VM still charges for storage space on the disk. The only way to reach 
 
 - [x] I answered all three "In My Own Words" prompts
 
-- [ ] This file is committed to my portfolio repo at `week-04/notes.md`
+- [x] This file is committed to my portfolio repo at `week-04/notes.md`
