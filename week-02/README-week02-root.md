@@ -46,14 +46,14 @@ This is a single-lab week — there's no GitHub-graded deliverable. Your first g
 
 ## Checklist
 
-- [ ] Completed the Lab Portal Module 1 orientation
-- [ ] Identified my CyberFoundations City district and explained why it fits
-- [ ] Listed a specific example for each layer: hardware, OS, software
-- [ ] Sketched my diagram and embedded it using a relative path (not an absolute path from my computer)
-- [ ] Explained my diagram in my own words (not a copied definition)
-- [ ] Answered all three Analysis Questions (minimum sentence counts met)
-- [ ] Answered all three Lab Report Questions in complete sentences
-- [ ] Committed `lab-01-hardware-os-software-diagram.md` to my portfolio repo
+- [x] Completed the Lab Portal Module 1 orientation
+- [x] Identified my CyberFoundations City district and explained why it fits
+- [x] Listed a specific example for each layer: hardware, OS, software
+- [x] Sketched my diagram and embedded it using a relative path (not an absolute path from my computer)
+- [x] Explained my diagram in my own words (not a copied definition)
+- [x] Answered all three Analysis Questions (minimum sentence counts met)
+- [x] Answered all three Lab Report Questions in complete sentences
+- [x] Committed `lab-01-hardware-os-software-diagram.md` to my portfolio repo
 
 ---
 
