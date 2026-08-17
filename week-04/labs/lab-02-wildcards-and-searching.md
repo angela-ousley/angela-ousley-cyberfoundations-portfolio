@@ -210,7 +210,7 @@ Take one screenshot of your simulator session showing your Part C sequence — t
 **Analysis Question 1.** In Part A you tested every pattern with `ls` before letting `cp` act on it. Explain what could go wrong if you skipped straight to acting — and why the stakes get higher when the command attached to the pattern is `rm`. *(Minimum 2 sentences.)*
 
 ```
-If you [cp] before using [ls] you don't know or are assuming that you know what files are listed in your current directory. Without checking first, you may copy a file that doesn't exist so you actually didn't copy anything at all. The stakes are higher when the [rm] command is used because you can't undo a removal of a file. Always [ls] before and after any changes are made.
+If you [cp] before using [ls] you don't know or are assuming that you know what files are listed in your current directory. Without checking first, you may copy a file that doesn't exist so you actually didn't copy anything at all. An even bigger issue would be copying or removing files that you didn't intend to copy or remove. The stakes are higher when the [rm] command is used because you can't undo a removal of a file. Always [ls] before and after any changes are made.
 ```
 
 **Analysis Question 2.** Your Part B search returned several routine matches and one suspicious one. In a real security job, why is "reducing six hundred lines to three worth reading" often more valuable than any single answer the search returns? *(Minimum 2 sentences.)*
