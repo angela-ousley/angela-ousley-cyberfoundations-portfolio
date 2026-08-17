@@ -53,15 +53,15 @@ All five of these are graded — submitted through the Lab Portal and checked ag
 
 ## Checklist
 
-- [ ] Created my own `week-03/` folder, `README-week03-root.md`, and `labs/README-week03-submissions.md` following `HOW-TO-CREATE-YOUR-WEEK-FOLDER.md`
-- [ ] Completed Lessons 1, 2, 3A, 3B, and 3C
-- [ ] Attended (or watched the recording of) the Week 3 live session, "Finding Your Way"
-- [ ] Completed Lab 01 and submitted it via the Lab Portal
-- [ ] Completed Lab 02 (both bash and PowerShell) and submitted it via the Lab Portal
-- [ ] Completed Lab 03 and submitted it via the Lab Portal
-- [ ] Submitted my Notes worksheet via the Lab Portal
-- [ ] Submitted my Reflection worksheet via the Lab Portal
-- [ ] Logged each submission in the lab tracker at labsubmission.cybervisionariesinstitute.org
+- [x] Created my own `week-03/` folder, `README-week03-root.md`, and `labs/README-week03-submissions.md` following `HOW-TO-CREATE-YOUR-WEEK-FOLDER.md`
+- [x] Completed Lessons 1, 2, 3A, 3B, and 3C
+- [x] Attended (or watched the recording of) the Week 3 live session, "Finding Your Way"
+- [x] Completed Lab 01 and submitted it via the Lab Portal
+- [x] Completed Lab 02 (both bash and PowerShell) and submitted it via the Lab Portal
+- [x] Completed Lab 03 and submitted it via the Lab Portal
+- [x] Submitted my Notes worksheet via the Lab Portal
+- [x] Submitted my Reflection worksheet via the Lab Portal
+- [x] Logged each submission in the lab tracker at labsubmission.cybervisionariesinstitute.org
 
 ---
 
