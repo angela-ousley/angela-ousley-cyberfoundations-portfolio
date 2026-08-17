@@ -138,9 +138,7 @@ This step happens directly on GitHub, not through this worksheet — there's no 
 4. Click on the uploaded image to open it, then click the **Raw** button. Copy the URL from your browser's address bar.
 5. After you submit this worksheet, it will be committed to your repo. Go back to GitHub, open the committed file, click the pencil (edit) icon, and paste your raw URL into the embed line below:
 
-```markdown
-https://raw.githubusercontent.com/angela-ousley/angela-ousley-cyberfoundations-portfolio/refs/heads/main/assets/screenshots/week-02/machine-exploration.png
-```
+![Machine Exploration](https://raw.githubusercontent.com/angela-ousley/angela-ousley-cyberfoundations-portfolio/refs/heads/main/assets/screenshots/week-02/machine-exploration.png)
 
 **My Screenshot** (added directly on GitHub after you submit):
 
