@@ -52,13 +52,13 @@ No local install this week — same as Weeks 2–3, plus one new destination.
 
 ## Weekly Checklist
 
-- [ ] Created `week-04/` and `week-04/labs/` folders (repo-root guide)
-- [ ] Watched all four lessons and their resource packs
-- [ ] Warmed up in the CLI Simulator's Permissions & Search modules
-- [ ] Completed Labs 01, 02, and 03 through the Lab Portal
-- [ ] Uploaded all four Deliverable 1 screenshots with exact filenames
-- [ ] Committed notes.md and reflection.md
-- [ ] Checked every box in each lab's own Submission Checklist
+- [x] Created `week-04/` and `week-04/labs/` folders (repo-root guide)
+- [x] Watched all four lessons and their resource packs
+- [x] Warmed up in the CLI Simulator's Permissions & Search modules
+- [x] Completed Labs 01, 02, and 03 through the Lab Portal
+- [x] Uploaded all four Deliverable 1 screenshots with exact filenames
+- [x] Committed notes.md and reflection.md
+- [x] Checked every box in each lab's own Submission Checklist
 
 ---
 
