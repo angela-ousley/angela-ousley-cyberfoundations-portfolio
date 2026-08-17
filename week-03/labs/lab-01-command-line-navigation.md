@@ -260,10 +260,8 @@ If you'd like to add one, take a screenshot showing your commands and their outp
 5. Right-click directly on the image and choose **Copy image address** (Chrome/Edge) or **Copy Image Link** (Firefox).
 6. Come back to this file, open the pencil (edit) icon, and add the embed near the bottom of Part B, pasting your copied link in place of the placeholder:
 
-```markdown
-https://raw.githubusercontent.com/angela-ousley/angela-ousley-cyberfoundations-portfolio/refs/heads/main/assets/screenshots/week-03/cli-simulator-session-1-pic1.png
-https://raw.githubusercontent.com/angela-ousley/angela-ousley-cyberfoundations-portfolio/refs/heads/main/assets/screenshots/week-03/cli-simulator-session-1-pic2.png
-```
+![CLI Simulator Session 1 Screenshot 1](https://raw.githubusercontent.com/angela-ousley/angela-ousley-cyberfoundations-portfolio/refs/heads/main/assets/screenshots/week-03/cli-simulator-session-1-pic1.png)
+![CLI Simulator Session 1 Screenshot 2](https://raw.githubusercontent.com/angela-ousley/angela-ousley-cyberfoundations-portfolio/refs/heads/main/assets/screenshots/week-03/cli-simulator-session-1-pic2.png)
 
 **If right-click doesn't show that option** (e.g., on some trackpads or tablets): click the small download-arrow icon in the top-right of the image preview instead, then copy the URL from your browser's address bar.
 
