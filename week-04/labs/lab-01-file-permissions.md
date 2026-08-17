@@ -64,7 +64,7 @@ badge-codes.txt -rw-r--r--
 Your plain-English decode:
 
 ```
-The owner can red and write. The group can read. The others can read.
+The owner can read and write. The group can read. The others can read.
 ```
 
 ### Step 3 — Find the Problem File
@@ -200,6 +200,8 @@ Protect the Secrets File from Part B is a good example of least-privilege. Let's
 
 ```
 One situation where the Windows approach [Get-Acl] would be more useful is when you want to know who the owner of a file is. The cost of this extra flexibility is only being able to read permissions for one specific file, unlike being able to [ls -l] in Linux and see the permissions for all the files in the current directory.
+
+Aug 17, 2026 Updated Answer: When it comes to setting permissions, the Windows approach would be more useful for a family computer or maybe a small business with a few employees because you have to grant permissions for each individual. The cost of this extra flexibility is having to manage permissions individually for a large group of people for each and every file/directory.
 ```
 
 ---
