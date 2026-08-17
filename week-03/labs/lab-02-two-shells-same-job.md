@@ -354,12 +354,10 @@ Same mechanism as Lab 01: fill out this lab's worksheet in the **CyberFoundation
 
 **📌 Optional:** a CLI Simulator session screenshot can be added the same way as Lab 01 — upload to `assets/screenshots/week-03/`, then right-click the uploaded image and choose **Copy image address**/**Copy Image Link** to embed it — but it isn't required and won't affect your grade.
 
-```markdown
-https://raw.githubusercontent.com/angela-ousley/angela-ousley-cyberfoundations-portfolio/refs/heads/main/assets/screenshots/week-03/cli-simulator-bash-session-2-pic1.png
-https://raw.githubusercontent.com/angela-ousley/angela-ousley-cyberfoundations-portfolio/refs/heads/main/assets/screenshots/week-03/cli-simulator-bash-session-2-pic2.png
-https://raw.githubusercontent.com/angela-ousley/angela-ousley-cyberfoundations-portfolio/refs/heads/main/assets/screenshots/week-03/cli-simulator-ps-session-2-pic1.png
-https://raw.githubusercontent.com/angela-ousley/angela-ousley-cyberfoundations-portfolio/refs/heads/main/assets/screenshots/week-03/cli-simulator-ps-session-2-pic2.png
-```
+![CLI Simulator Bash Session 2 Screenshot 1](https://raw.githubusercontent.com/angela-ousley/angela-ousley-cyberfoundations-portfolio/refs/heads/main/assets/screenshots/week-03/cli-simulator-bash-session-2-pic1.png)
+![CLI Simulator Bash Session 2 Screenshot 2](https://raw.githubusercontent.com/angela-ousley/angela-ousley-cyberfoundations-portfolio/refs/heads/main/assets/screenshots/week-03/cli-simulator-bash-session-2-pic2.png)
+![CLI Simulator PS Session 2 Screenshot 1](https://raw.githubusercontent.com/angela-ousley/angela-ousley-cyberfoundations-portfolio/refs/heads/main/assets/screenshots/week-03/cli-simulator-ps-session-2-pic1.png)
+![CLI Simulator PS Session 2 Screenshot 2](https://raw.githubusercontent.com/angela-ousley/angela-ousley-cyberfoundations-portfolio/refs/heads/main/assets/screenshots/week-03/cli-simulator-ps-session-2-pic2.png)
 
 ---
 
