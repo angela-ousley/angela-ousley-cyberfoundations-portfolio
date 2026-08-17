@@ -55,7 +55,7 @@ Work through the Basics screen: choose a VM name that passes the naming rules *a
 The name you chose, and whether you hit the taken-name error first:
 
 ```
-cyber-foundations-vm
+I chose "cyber-foundations-vm" and I did not get the taken-name error.
 ```
 
 ### Step 2 — Choose a Region, and Say Why
