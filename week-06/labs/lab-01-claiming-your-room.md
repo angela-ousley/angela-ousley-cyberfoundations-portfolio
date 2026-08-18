@@ -107,7 +107,9 @@ Each of those three commands answered a different question: *which machine*, *wh
 
 Explain, in your own words, what each output proves:
 ```
-(explain hostname, whoami, and pwd — at least three sentences)
+The [hostname] command lets you know which machine you're on.
+The [whoami] command tells you your username.
+The [pwd] command tells you your current location in the directory.
 ```
 
 ### Step 2 — Capture Your Evidence
