@@ -68,14 +68,14 @@ Screenshot filenames, exactly as written:
 
 ## Weekly Checklist
 
-- [ ] Created `week-05/` and `week-05/labs/` folders (repo-root guide)
-- [ ] Watched all four lessons and their resource packs
-- [ ] Completed Lab 01 — recorded your address, mask, gateway, and the A record for `foundry-archive.grid.local`
-- [ ] Completed Lab 02 — worked the ladder in order and wrote the incident note in Part E
-- [ ] Completed Lab 03 — both required screenshots uploaded with exact filenames
-- [ ] *Optional:* completed the stretch lab, with every redaction pre-flight line ticked
-- [ ] Committed `notes.md` and `reflection.md`
-- [ ] Checked every box in each lab's own Submission Checklist
+- [x] Created `week-05/` and `week-05/labs/` folders (repo-root guide)
+- [x] Watched all four lessons and their resource packs
+- [x] Completed Lab 01 — recorded your address, mask, gateway, and the A record for `foundry-archive.grid.local`
+- [x] Completed Lab 02 — worked the ladder in order and wrote the incident note in Part E
+- [x] Completed Lab 03 — both required screenshots uploaded with exact filenames
+- [x] *Optional:* completed the stretch lab, with every redaction pre-flight line ticked
+- [x] Committed `notes.md` and `reflection.md`
+- [x] Checked every box in each lab's own Submission Checklist
 
 ---
 
