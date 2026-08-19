@@ -263,7 +263,11 @@ Two screenshots, both cropped to the terminal only:
 
 **Required filename:** `beacon-reply.png` — your beacon ping/traceroute/curl evidence
 
-![Grid Beacon reply](https://raw.githubusercontent.com/angela-ousley/angela-ousley-cyberfoundations-portfolio/refs/heads/main/assets/screenshots/week-06/beacon-reply-1.png)
+![Grid Beacon reply 1](https://raw.githubusercontent.com/angela-ousley/angela-ousley-cyberfoundations-portfolio/refs/heads/main/assets/screenshots/week-06/beacon-reply-1.png)
+
+![Grid Beacon reply 2](https://raw.githubusercontent.com/angela-ousley/angela-ousley-cyberfoundations-portfolio/refs/heads/main/assets/screenshots/week-06/beacon-reply-2.png)
+
+![Grid Beacon reply 3](https://raw.githubusercontent.com/angela-ousley/angela-ousley-cyberfoundations-portfolio/refs/heads/main/assets/screenshots/week-06/beacon-reply-3.png)
 
 ---
 
