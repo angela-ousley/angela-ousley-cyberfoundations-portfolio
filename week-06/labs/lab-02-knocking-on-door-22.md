@@ -147,7 +147,9 @@ Screenshot the terminal showing the first-connection prompt and the successful s
 
 **Crop rules.** No Bastion URL, no address bar, no password field, no login screen. The fingerprint text is fine.
 
-![SSH first connection and nested session](https://raw.githubusercontent.com/angela-ousley/angela-ousley-cyberfoundations-portfolio/2f51121dffc154e323f271c0514eeddb3c9a4058/assets/screenshots/week-06/ssh-first-connection-2.png)
+![SSH first connection and nested session 1](https://raw.githubusercontent.com/angela-ousley/angela-ousley-cyberfoundations-portfolio/2f51121dffc154e323f271c0514eeddb3c9a4058/assets/screenshots/week-06/ssh-first-connection-1.png)
+![SSH first connection and nested session 2](https://raw.githubusercontent.com/angela-ousley/angela-ousley-cyberfoundations-portfolio/2f51121dffc154e323f271c0514eeddb3c9a4058/assets/screenshots/week-06/ssh-first-connection-2.png)
+![SSH first connection and nested session 3](https://raw.githubusercontent.com/angela-ousley/angela-ousley-cyberfoundations-portfolio/2f51121dffc154e323f271c0514eeddb3c9a4058/assets/screenshots/week-06/ssh-first-connection-3.png)
 
 ### Step 7 — Leave
 
