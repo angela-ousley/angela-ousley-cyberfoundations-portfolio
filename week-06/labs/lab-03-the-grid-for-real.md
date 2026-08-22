@@ -250,7 +250,7 @@ Trace ID: CF-NET-0604
 Explain the difference between what the `ping` proved and what the `curl` proved:
 
 ```
-The 'ping' command proved that my local network is functioning properly because my packets were received by the beacon address with 0% packet loss. The 'ping' also proved that my machine and the beacon are close in range because the latency time for each packet was under 2 milliseconds. The 'curl' command proved that beacon website is available because I was able to print the content of the URL (http://10.60.6.4) directly to my terminal.
+The 'ping' command proved that my local network is functioning properly because my packets were received by the beacon address with 0% packet loss. The 'curl' command proved that beacon website is available because I was able to print the content of the URL (http://10.60.6.4) directly to my terminal.
 ```
 
 ### Step 5 — Capture Your Evidence
