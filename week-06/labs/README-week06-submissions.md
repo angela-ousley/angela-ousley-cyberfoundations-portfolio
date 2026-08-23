@@ -82,13 +82,13 @@ Every screenshot must have the browser address bar and all login information cro
 
 ## Week 6 Completion Checklist
 
-- [ ] Lab 01 submitted with `bastion-session.png`
-- [ ] Lab 02 submitted with `ssh-first-connection.png`
-- [ ] Lab 03 submitted with `vm-toolkit-live.png` and `beacon-reply.png`
-- [ ] Lab 04 submitted with `blueprint-verified.png`
-- [ ] Lab 05 submitted (no screenshot)
+- [x] Lab 01 submitted with `bastion-session.png`
+- [x] Lab 02 submitted with `ssh-first-connection.png`
+- [x] Lab 03 submitted with `vm-toolkit-live.png` and `beacon-reply.png`
+- [x] Lab 04 submitted with `blueprint-verified.png`
+- [x] Lab 05 submitted (no screenshot)
 - [ ] *Optional:* Stretch lab submitted with a redacted `stretch-real-network.png`
-- [ ] No Bastion link, password, or login screen appears anywhere in my repo
+- [x] No Bastion link, password, or login screen appears anywhere in my repo
 
 ---
 
