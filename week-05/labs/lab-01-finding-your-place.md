@@ -198,7 +198,7 @@ The number ping showed for `foundry-archive.grid.local`, and its packet loss and
 ```
 The IP address shown for 'foundry-archive.grid.local' is 10.20.5.20.
 There is 0% packet loss.
-Latency time is 3005ms.
+Latency time is 2.150 ms.
 ```
 
 ---
@@ -295,7 +295,7 @@ Write the aha in your own words — what did the two pings prove, and what did `
 Your explanation:
 
 ```
-The first ping proved that the foundry-archive.grid.local server is up and running because we received a response and no packet loss. It also showed us the IP address of the server. The 'dig' command showed the A record for foundry-archive.grid.local and showed the IP address & port number of the server that gave us the answer. The second ping proved that the name (foundry-archive.grid.local) and the IP address (10.2.5.20) are the same thing because it gave us the same output.
+The first ping proved that the foundry-archive.grid.local server is up and running because we received a response and no packet loss. It also showed us the IP address of the server. The 'dig' command showed the A record for foundry-archive.grid.local and showed the IP address & port number of the server that gave us the answer. The second ping proved that the name (foundry-archive.grid.local) and the IP address (10.20.5.20) are the same thing because it gave us the same output.
 ```
 
 ### Step 6 — Capture Your Session (OPTIONAL screenshot)
