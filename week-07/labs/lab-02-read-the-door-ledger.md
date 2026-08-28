@@ -147,7 +147,7 @@ An 'allow' rule can be correct by itself, but ineffective in the full ledger bec
 
 - [x] Protected priorities 100, 110, and 120 were not changed.
 
-- [ ] Every rule I created or edited used priority 200–999.
+- [x] Every rule I created or edited used priority 200–999.
 
 - [x] No password, Bastion URL, or browser address bar appears in my files.
 
