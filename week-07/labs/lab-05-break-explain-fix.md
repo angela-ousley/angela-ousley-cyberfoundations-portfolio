@@ -158,7 +158,7 @@ Open each image at full size before submission. Confirm that no password, Bastio
 **Analysis Question 1.** Why did the correct Allow stop working even though it was never edited? (Minimum 4 sentences.)
 
 ```text
-The correct Allow stopped working even though it was never edited because a Deny rule was put into the ledger that was evaluated first. The deny rule has the same attributes as the allow rule (other than the action), but has a lower priority number so it's the first match to win. The allow rule never made it into consideration. The priority number always determines what rule gets checked first.
+The correct Allow stopped working even though it was never edited because a Deny rule was put into the ledger that was evaluated first. The deny rule has the same attributes as the allow rule (other than the action and destination IP address), but has a lower priority number so it's the first match to win. The allow rule never made it into consideration. The priority number always determines what rule gets checked first.
 ```
 
 **Analysis Question 2.** Why is diagnosing from evaluation order better than changing rules by trial and error? (Minimum 4 sentences.)
