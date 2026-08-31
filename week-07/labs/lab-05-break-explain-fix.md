@@ -127,13 +127,19 @@ Your sequence must show broken rules, observed denial, repaired rules, and final
 ## Explain — Incident Note
 
 ```text
-Problem:
-Evidence:
-Healthy conditions ruled out:
-Root cause:
-Remediation:
-Retest:
-Prevention:
+Problem: Grid Beacon inbound TCP traffic was denied from source 10.60.6.4 to destination port 8080
+
+Evidence: A connection attempt was made to my VM from the Grid Beacon and a Denied result was returned
+
+Healthy conditions ruled out: My VM status said 'running' so I could tell that wasn't a problem. The python3 command confirmed it was listening for traffic on port 8080
+
+Root cause: Rule 250 blocked incoming traffic from 10.60.6.4 to destination port 8080
+
+Remediation: Delete rule 250
+
+Retest: Confirmed that Allow rule 300 is functioning as expected now that Deny rule 250 is removed
+
+Prevention: Make sure the rule that you want to execute first has a lower priority number
 ```
 
 ## Required Evidence
