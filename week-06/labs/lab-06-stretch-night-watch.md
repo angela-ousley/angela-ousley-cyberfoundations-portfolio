@@ -2,7 +2,7 @@
 
 **Student Name:** Angela Ousley
 
-**Date Completed:** September
+**Date Completed:** September 1, 2026
 
 **Module:** 2 — Networking & Cloud Foundations | **Week:** 6  
 **Submission Path:** `week-06/labs/lab-06-stretch-night-watch.md`
