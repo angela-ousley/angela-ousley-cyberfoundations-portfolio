@@ -83,7 +83,7 @@ Your private IP:
 Explain how you know your address falls inside `10.60.6.0/26` — what range does that prefix actually cover:
 
 ```
-I know my address (10.60.6.35/26) falls inside of 10.60.6.0/26 because the /26 mask means that the first 3 octets (10.60.6) are for the network and a quarter of the 4th octet ( 2 bits) are also for the network. My fist 3 octets are the same as the first 3 octets for the student subnet floor. The 2 network bits in the last octet leave 6 hosts bits to work with. 2^6 = 64 so that means there are 64 addresses on the student subnet floor ranging from 0 to 63. The range is 10.60.6.0 - 10.60.6.63. My host portion of my address ends in .35 which is in between .0 and .63 so my address falls inside the range.
+I know my address (10.60.6.35/26) falls inside of 10.60.6.0/26 because the /26 mask means that the first 3 octets (10.60.6) are for the network and a quarter of the 4th octet ( 2 bits) are also for the network. My first 3 octets are the same as the first 3 octets for the student subnet floor. The 2 network bits in the last octet leave 6 hosts bits to work with. 2^6 = 64 so that means there are 64 addresses on the student subnet floor ranging from 0 to 63. The range is 10.60.6.0 - 10.60.6.63. My host portion of my address ends in .35 which is in between .0 and .63 so my address falls inside the range.
 ```
 
 ### Step 2 — Confirm Route Behaviour
