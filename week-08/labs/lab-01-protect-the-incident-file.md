@@ -141,8 +141,18 @@ This lab demonstrates confidentiality because I encrypted a plaintext file so th
 ## Analysis Questions
 
 1. Why can an encrypted file still be copied or deleted?
+   - An encrypted file can still be copied or deleted because encryption only protects 
+     the contents of the file from being read, it doesn’t protect the file from being 
+     duplicated or removed.
+     
 2. What job did the passphrase perform?
+   - The passphrase created a key to encrypt and decrypt the file.
+
 3. Why does the match test prove correct recovery but not prove who handled the file?
+   - The match test proves correct recovery because the [cmp] command compares the two 
+     files byte by byte to see if the files are identical or not. Using the compare 
+     command to do the match test does not show information on who made changes to the 
+     file.
 
 ## Required Evidence
 
