@@ -169,7 +169,7 @@ Save exactly these files in `assets/screenshots/week-08/`:
 
 - [x] No passphrase or other secret appears.
 
-- [ ] Every worksheet response is complete.
+- [x] Every worksheet response is complete.
 
 - [x] The worksheet is saved at the stated submission path.
 
