@@ -117,8 +117,13 @@ One file is the public key and the other file is the private key. The public key
 ## Analysis Questions
 
 1. Why can the public key be distributed while the private key must remain protected?
+- The public key is expected to be shared so it’s fine to distribute the public key. The private key must remain protected because it is proof of identity,  used to decrypt files, and used to apply a digital signature.
+
 2. How is the key passphrase different from the `analyst` account password?
+- The key passphrase is different from the analyst account account password because the key passphrase is used to encrypt the private key file. The analyst account password is used to authenticate a user and has nothing to do with encrypting a file or creating a passphrase.
+
 3. Why did you use a unique Week 8 filename?
+- I used a unique Week 8 filename so I can remember the name of the public and private keys and it ensures I don’t overwrite a previous key. Accepting a default filename could overwrite an existing key.
 
 ## Required Evidence
 
@@ -135,7 +140,7 @@ One file is the public key and the other file is the private key. The public key
 
 - [x] Both screenshots use the exact filenames.
 
-- [ ] Every worksheet response is complete.
+- [x] Every worksheet response is complete.
 
 ## GitHub / Lab Portal Submission
 
