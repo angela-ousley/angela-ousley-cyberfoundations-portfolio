@@ -122,8 +122,16 @@ The mismatch proves that the hashes of the two files don't match, which means th
 ## Analysis Questions
 
 1. What does the different SHA-256 value prove?
+- The different SHA-256 value proves that the data in the file copy is different from the data in the original file.
+   
 2. Why does the mismatch not identify the person who changed the file?
+- A hash value comparison never tells you who made updates to the file
+   
 3. Why does hashing not protect confidentiality?
+- Hashing isn’t the same as encryption so it doesn’t provide confidentiality. A hash 
+value provides integrity, while encryption makes a file unreadable so it provides 
+confidentiality. 
+
 
 ## Required Evidence
 
@@ -139,7 +147,7 @@ The mismatch proves that the hashes of the two files don't match, which means th
 
 - [x] The original evidence file was not modified.
 
-- [ ] Every worksheet response is complete.
+- [x] Every worksheet response is complete.
 
 ## GitHub / Lab Portal Submission
 
