@@ -47,7 +47,7 @@ Return to **My Lab Environment** in the Lab Portal and start your assigned VM. A
 **[WORKSHEET]** Should the original signature verify after the report content changes? Explain.
 
 ```text
-(write 2–3 sentences here)
+The original signature made with the private key will NOT verify when using the public key after the report content changes. Verification only happens if the file is unchanged; if the file is changed by just one character, it can no longer be verified. Verification using the public key confirms integrity, you will be sure that the file is the exact same as the original.
 ```
 
 ## Guided Steps
@@ -140,15 +140,22 @@ Do not create the changed copy until Step 5 returns `Verified OK`.
 **[WORKSHEET]** In 4–5 sentences, explain both verification results and why signing is not encryption.
 
 ```text
-(write your explanation here)
+The 'Verified OK' verification result shows that the correct public key was used and that the file was not changed. The 'Verification failure' result happened because the incident report file was modified after the digital signature was applied. Signing is not encryption because the document is still readable. Signing is hashing a document and then applying a private key to that hash to produce a signature. The hash value is encrypted, which produces the signature, but the file itself is not encrypted.
 ```
 
 ## Analysis Questions
 
 1. What does `Verified OK` establish within this lab?
+- Verified OK established that the contents of the incident report file were not changed after a digital signature was applied and that the correct public key was used to verify the signature.
+
 2. Why did the changed copy fail verification?
+- The changed copy failed verification because the hash of the original file was assigned a digital signature, not the copied file that had text changed inside of it. So when trying to verify the signature using the public key with the changed copy, it failed because the hash created during verification with the changed copy didn’t match the hash decrypted from the signature.
+
 3. Why is the signed report still readable?
+- The signed report is still readable because the file is not encrypted. Hashing the report doesn’t make it unreadable. The hash is encrypted which signs the report.
+
 4. Why does the signature alone not prove which human used the private key?
+- The signature alone does not prove who used the private key because the private key may have been compromised. A signature proves that the corresponding private key was used to sign the file, but not which human used the key.
 
 ## Required Evidence
 
@@ -157,11 +164,11 @@ Do not create the changed copy until Step 5 returns `Verified OK`.
 
 ## Submission Checklist
 
-- [ ] The original returned `Verified OK`.
-- [ ] The changed copy returned `Verification failure`.
-- [ ] The private key and passphrase were never displayed or submitted.
-- [ ] Both screenshots use the exact filenames.
-- [ ] Every worksheet response is complete.
+- [x] The original returned `Verified OK`.
+- [x] The changed copy returned `Verification failure`.
+- [x] The private key and passphrase were never displayed or submitted.
+- [x] Both screenshots use the exact filenames.
+- [x] Every worksheet response is complete.
 
 ## GitHub / Lab Portal Submission
 
