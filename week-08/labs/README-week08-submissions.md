@@ -23,8 +23,8 @@ Never upload files from `~/.ssh/`, any `.pem` file, an encryption key, private-k
 
 ## Final Check
 
-- [ ] Five completed worksheets are present.
-- [ ] Nine screenshots use the exact filenames above.
-- [ ] Every image opens and is readable.
-- [ ] No secret is visible.
+- [x] Five completed worksheets are present.
+- [x] Nine screenshots use the exact filenames above.
+- [x] Every image opens and is readable.
+- [x] No secret is visible.
 - [ ] `notes.md` and `reflection.md` are complete.
