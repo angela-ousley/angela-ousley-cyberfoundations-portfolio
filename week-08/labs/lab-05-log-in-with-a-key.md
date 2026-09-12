@@ -181,7 +181,7 @@ The key passphrase is different from the 'analyst' account password because the 
 
 - [x] No password, passphrase, private key, or Bastion URL appears.
 
-- [ ] Every worksheet response is complete.
+- [x] Every worksheet response is complete.
 
 ## GitHub / Lab Portal Submission
 
