@@ -6,14 +6,14 @@
 
 ## Vocabulary in My Own Words
 
-- Plaintext:
-- Ciphertext:
-- Encryption:
-- Hash / digest:
-- Public key:
-- Private key:
-- Digital signature:
-- `authorized_keys`:
+- Plaintext: readable data in its unencrypted form
+- Ciphertext: scrambled unreadable data that’s encrypted
+- Encryption: a mathematical transformation of data that makes it unreadable without the key
+- Hash / digest: a value given after data goes through a hash algorithm
+- Public key: a shared key used to verify and decrypt data
+- Private key: a key that’s kept secret by the owner to encrypt data and apply a digital signature
+- Digital signature: a hash value that has been signed using a private key
+- `authorized_keys`: a file on a server that holds public keys
 
 ## Command-to-Purpose Map
 
@@ -27,8 +27,9 @@
 
 ## Safety Rules I Must Remember
 
-1. 
-2. 
-3. 
+1. Never submit or post .pem files, passwords, or passphrases
+2. Never share or post your Bastion URL
+3. Never share your private key!
 
 ## Question for the Instructor
+None at the momement
