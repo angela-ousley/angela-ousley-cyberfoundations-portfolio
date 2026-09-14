@@ -27,4 +27,4 @@ Never upload files from `~/.ssh/`, any `.pem` file, an encryption key, private-k
 - [x] Nine screenshots use the exact filenames above.
 - [x] Every image opens and is readable.
 - [x] No secret is visible.
-- [ ] `notes.md` and `reflection.md` are complete.
+- [x] `notes.md` and `reflection.md` are complete.
