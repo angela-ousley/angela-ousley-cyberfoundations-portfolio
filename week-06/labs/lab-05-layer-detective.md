@@ -92,7 +92,7 @@ Layer 1, Physical
 Evidence and reasoning:
 
 ```
-If you run the command [ip addr] and don't receive an address, that's a layer 1 issue because it's a reachability failure. The IP address could be misconfigured or a DHCP failure.
+If you run the command [ip addr] and don't receive an address, that's a layer 1 issue because it's a reachability failure. The machine reporting ‘no link’ gives us evidence that there is no physical connection to the internet. Check the link light to see if it’s on or blinking, if not, that’s another indicator that the physical link isn’t connected or reachable.
 ```
 
 ### Case File 4 — Ping Works, The Page Does Not
@@ -108,7 +108,7 @@ Layer 7, Application
 Evidence that the layers below were working:
 
 ```
-Ping working shows that layer 3 is working fine and the server is reachable. Ping uses ICMP which is a layer 3 protocol, so layers 1 and 2 must be working. Since the server is reachable, I'm guessing layers 4-6 are working as well and layer 7 is the problem.
+Ping working shows that layer 3 is working fine and the server is reachable. Ping uses ICMP which is a layer 3 protocol, so layers 1 and 2 must be working. Curl is failing and operates at layer 7.
 ```
 
 ### Case File 5 — Wrong Neighbourhood
