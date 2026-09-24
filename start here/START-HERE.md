@@ -51,8 +51,8 @@ From Week 3 on, you create the next `week-0X/` folder yourself, matching this sa
 
 You're done with onboarding once:
 
-- [ ] Your README has your intro and the commit is saved
-- [ ] You've confirmed you're logged into Circle and can find your cohort space
-- [ ] You've confirmed you're logged into the Lab Portal and can see your Student Dashboard
+- [x] Your README has your intro and the commit is saved
+- [x] You've confirmed you're logged into Circle and can find your cohort space
+- [x] You've confirmed you're logged into the Lab Portal and can see your Student Dashboard
 
 Nice work. You just put yourself on the internet as someone who is taking this seriously — and that counts.
