@@ -33,12 +33,12 @@ Add a caption explaining the evidence. Replace this example with the correct fil
 
 ## Portfolio Deliverable 3 Checklist
 
-- [ ] **Certificate investigation:** public hostname, date/time zone, issuer, SAN, validity, key and signature roles, purpose, and chain map in Lab 01.
-- [ ] **OpenSSL walkthrough:** dedicated key, request, issuance, inspection, verification, and local connection explained in Lab 02.
-- [ ] **Trust evidence:** passing and deliberately failing results with exact CA file and expected name; causes explained.
-- [ ] **Comparison:** public website versus isolated service, including who accepts each issuing office and where each service runs.
-- [ ] **Reflection:** what certificates establish, their limits, and one evidence-supported troubleshooting decision.
-- [ ] **Professional evidence:** legible artifacts, exact filenames, no private material.
+- [x] **Certificate investigation:** public hostname, date/time zone, issuer, SAN, validity, key and signature roles, purpose, and chain map in Lab 01.
+- [x] **OpenSSL walkthrough:** dedicated key, request, issuance, inspection, verification, and local connection explained in Lab 02.
+- [x] **Trust evidence:** passing and deliberately failing results with exact CA file and expected name; causes explained.
+- [x] **Comparison:** public website versus isolated service, including who accepts each issuing office and where each service runs.
+- [x] **Reflection:** what certificates establish, their limits, and one evidence-supported troubleshooting decision.
+- [x] **Professional evidence:** legible artifacts, exact filenames, no private material.
 
 ## Non-Negotiable Safety
 
