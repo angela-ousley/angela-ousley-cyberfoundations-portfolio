@@ -23,11 +23,11 @@ These checks confirm your work is present. They are not grading — your instruc
 - [x] I wrote three warning signs, a safe response and reporting step, and my suspicious-vs-proven reflection.
 
 **Lab 2**
-- [ ] All five scenarios have a Likelihood (1–3) and Impact (1–3), each with its reason.
-- [ ] I chose two priorities and explained why.
-- [ ] Each priority has a Control, How it helps and Risk remaining afterwards.
-- [ ] I wrote a manager briefing (about 100–150 words is a flexible guide).
-- [ ] I kept my Lab 1 work in place — I did not reset it.
+- [x] All five scenarios have a Likelihood (1–3) and Impact (1–3), each with its reason.
+- [x] I chose two priorities and explained why.
+- [x] Each priority has a Control, How it helps and Risk remaining afterwards.
+- [x] I wrote a manager briefing (about 100–150 words is a flexible guide).
+- [x] I kept my Lab 1 work in place — I did not reset it.
 
 ## Step by Step: Upload a Report to GitHub
 
