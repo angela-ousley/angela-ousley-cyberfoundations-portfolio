@@ -30,7 +30,7 @@ Bands (1–2 low, 3–4 medium, 6–9 high) are a classroom teaching aid, not a 
 ### SC-02
 - **Control:** They could stop keeping the 'frontdesk' password written down and require staff to remember it. Change the password more often so only current staff members have access to it. The best control would be to give separate accounts to the front desk staff.
 - **How it helps:** Having the staff remember the password instead of writing it down helps keep the password more secure, less exposure. Changing the password more often helps prevent unauthorized access from happening or continuing if the password is exposed. Giving each receptionist their own login allows non-repudiation and accountability.
-- **Risk remaining afterwards:** The remaining risk of using one login for 4 staff members is not knowing who did what.
+- **Risk remaining afterwards:** The remaining risk of using one login for 4 staff members is not knowing who did what. Staff might get locked out more often because they aren't used to remembering the password.
 
 ### SC-03
 - **Control:** They could setup the computers to do a forced security update after postponing for more than a certain number of days. They could set the records application to automatically sign out a user after a certain amount of time of inactivity. Set the computer to automatically lock after a certain time of inactivity. Make it a habit of closing the workspace door when leaving out.
